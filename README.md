@@ -22,4 +22,4 @@ Install the required dependencies (Selenium, pandas, numpy, pyautogui, openpyxl,
 
 
 ### 2.1.3 After running the script:
-The output data file can be found in the Cost Tracker Folder. Find the latest file with today's date on it, which you can paste it at the end of the list on the Main Cost Tracker file (Cost Tracker Maintenance Control). 
+The output data file can be found in the Cost Tracker Folder. Find the latest file with today's date on it, which you can paste it at the end of the list on the Main Cost Tracker file (Cost Tracker Maintenance Control.xlsx). 
